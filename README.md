@@ -5,7 +5,6 @@
 # Movie Recommender System
 
 
-
 ## Overview
 
 **Objective:**
@@ -20,21 +19,21 @@ The goal of this project is to design and implement a movie recommender system t
 
 2. **Exploratory Data Analysis (EDA):**
 
-   - Analyzed the dataset to understand its structure, features, and distributions.
+   - Analyzed the dataset for sstructure understanding, features, and distributions.
    - Visualized key patterns, such as user preferences and movie popularity, to gain insights.
 
-3. **Content-Based Filtering:**
+3. **Content Based Filtering:**
 
    - Implemented a content-based recommender system using movie genres.
    - Explored the use of TF-IDF vectors to represent movie content and calculate similarities.
 
-4. **Neighborhood-Based Collaborative Filtering (KNN):**
+4. **Neighborhood Based Collaborative Filtering (KNN):**
 
    - Implemented a neighborhood-based collaborative filtering model using SciKit Learn's KNN.
    - Explored both user-based and item-based collaborative filtering approaches.
    - Evaluated the model's performance using metrics such as RMSE and MAE.
 
-5. **Model-Based Collaborative Filtering (SVD):**
+5. **Model Based Collaborative Filtering (SVD):**
 
    - Implemented a model-based collaborative filtering approach using the Surprise library and Singular Value Decomposition (SVD).
    - Evaluated the model's performance and explored hyperparameter tuning.
