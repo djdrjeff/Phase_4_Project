@@ -1,8 +1,6 @@
-# Data Science: Phase 4 Project
+## Data Science: Phase 4 Project
 
-
-
-# Movie Recommender System
+## Movie Recommender System
 
 
 ## Overview
