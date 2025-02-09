@@ -83,11 +83,6 @@ In developing a movie recommender system, we explored various approaches includi
 
 - In conclusion, the choice of a recommender system depends on the specific requirements, user preferences, and the nature of the dataset. A well-balanced hybrid model, continually refined and validated, holds the potential to offer robust and accurate movie recommendations.
 
-## Authors :people_holding_hands:
-
-- [Fredrick Kyeki](https://github.com/FREDRICKKYEKI)
-- [Stacy Kiriiri](https://github.com/kiriiri)
-- [Wilfred Kivinda](https://github.com/willieki)
 
 ## Acknowledgements :link:
 
