@@ -91,5 +91,4 @@ In developing a movie recommender system, we explored various approaches includi
 - Seaborn
 - Flask
 - Pickle
-- onrender.com (for deployment)
-- Saturn Cloud
+ 
