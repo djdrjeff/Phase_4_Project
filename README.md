@@ -60,8 +60,6 @@ For this project, we explored the following models:
 For the final model, we used the Neighbourhood based model (KNN) as it had the lowest RMSE and MAE scores.
 We also explored the use of a hybrid model that combines the strengths of content-based and collaborative filtering approaches.
 
-> **Note:** The code for the models can be found in the [notebooks](notebooks) folder.
-
 ## Conclusion and Recommendations:
 
 In developing a movie recommender system, we explored various approaches including content-based filtering, neighborhood-based collaborative filtering (KNN), and model-based collaborative filtering (SVD). Each approach had its strengths and limitations.
