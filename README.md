@@ -2,7 +2,7 @@
 
 ## Movie Recommender System
 
-<img src="Images/Movie Recommender System.png" alt="Project Logo" width="200">
+<img src="Images/Movie Recommender System.jpg" alt="Project Logo" width="200">
 
 
 ## Overview
